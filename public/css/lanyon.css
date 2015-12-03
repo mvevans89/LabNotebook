@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 1rem;
-  color: rgba(255,255,255,.6);
+  color: #fe9338c;
   background-color: #9CAFB7;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
