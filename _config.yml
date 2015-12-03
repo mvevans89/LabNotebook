@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:             Lab Notebook
-tagline:          'Tad Dallas'
-description:      'SIDEBAR!'
+tagline:          'Michelle Evans'
+description:      ''
 baseurl:          /LabNotebook
 
 paginate:         5
@@ -18,4 +18,4 @@ paginate:         5
 version:          1.0.1
 
 github:
-  repo:           https://github.com/taddallas/LabNotebook
+  repo:           https://github.com/mvevans89/LabNotebook
