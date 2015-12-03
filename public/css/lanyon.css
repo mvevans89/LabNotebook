@@ -51,7 +51,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  color: #313131;
+  color: #FE938C;
   letter-spacing: -.025rem;
 }
 
@@ -109,12 +109,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title a {
-  color: #505050;
+  color: #E6B89C;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #2793ff;
+  color: #EAD2AC;
   letter-spacing: 0;
 }
 
