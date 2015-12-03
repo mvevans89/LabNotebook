@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #9cafb7;
+  color: #4281a4;
   letter-spacing: 0;
 }
 
@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: #ead2ac;
 }
 .sidebar-item {
   padding: 1rem;
@@ -220,7 +220,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   padding: .25rem .75rem;
-  color: #fe938c;
+  color: #9cafb7;
   background-color: #fe938c;
   border-radius: .25rem;
   cursor: pointer;
