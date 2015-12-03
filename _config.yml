@@ -12,11 +12,11 @@ version:          1.0.1
 
 # Setup
 title:             Lab Notebook
-tagline:          'Your Name'
-description:      'Blah blah blah'
+tagline:          'Michelle Evans'
+description:      'One time Tad taught me how to make a lab notebook...'
 baseurl:          /sampleNotebook
 
 paginate:         5
 
 github:
-  repo:           https://github.com/taddallas/sampleNotebook
+  repo:           https://github.com/mvevans89/sampleNotebook
