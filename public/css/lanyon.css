@@ -51,7 +51,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  color: #FE938C;
+  color: #4281A4, #9cafb7;
   letter-spacing: -.025rem;
 }
 
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title a {
-  color: #E6B89C;
+  color: #FE938C;
 }
 .masthead-title small {
   font-size: 75%;
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 1rem;
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #9CAFB7;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
