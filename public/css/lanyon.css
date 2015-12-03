@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #ead2ac;
+  color: #fe938c;
 }
 .sidebar-item {
   padding: 1rem;
@@ -241,7 +241,7 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #555;
+  background-color: #fe938c;
 }
 
 .sidebar-toggle:active:before,
