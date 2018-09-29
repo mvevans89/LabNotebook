@@ -4,3 +4,5 @@ You've found my open lab notebook. Hopefully it wasn't all that difficult. I wil
 
 
 Feel free to fork the [sampleNotebook](https://github.com/taddallas/LabNotebook/tree/sampleNotebook) branch and set an open lab notebook up for yourself. It's good stuff.
+
+Checking AWS works
